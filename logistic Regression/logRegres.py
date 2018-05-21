@@ -1,7 +1,8 @@
 '''
-Created on Oct 27, 2010
+Creacted on May 21, 2018
 Logistic Regression Working Module
-@author: Peter
+@author: yyg
+reference: Machine Learning in Action
 '''
 import numpy as np
 
